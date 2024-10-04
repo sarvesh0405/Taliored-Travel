@@ -1,0 +1,249 @@
+{
+    "itineraries": [
+        {
+            "day": 1,
+            "date": "Day 1",
+            "attractions": [
+                {
+                    "name": "Gateway of India",
+                    "description": "An iconic monument overlooking the Arabian Sea.",
+                    "recommendedTime": "1-2 hours",
+                    "cost": 100
+                },
+                {
+                    "name": "Elephanta Caves",
+                    "description": "A network of sculpted caves on Elephanta Island.",
+                    "recommendedTime": "2-3 hours",
+                    "cost": 150
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Colaba Causeway",
+                    "description": "A bustling market known for shopping and street food.",
+                    "mustVisit": "Yes",
+                    "cost": 200
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Bhel Puri",
+                    "cuisine": "Indian",
+                    "description": "A popular street food made with puffed rice.",
+                    "mustTry": "Absolutely must-try at Chowpatty Beach.",
+                    "cost": 30
+                }
+            ]
+        },
+        {
+            "day": 2,
+            "date": "Day 2",
+            "attractions": [
+                {
+                    "name": "Marine Drive",
+                    "description": "A picturesque promenade along the coast.",
+                    "recommendedTime": "1 hour",
+                    "cost": 0
+                },
+                {
+                    "name": "Chhatrapati Shivaji Maharaj Terminus",
+                    "description": "A UNESCO World Heritage Site and historic railway station.",
+                    "recommendedTime": "30 minutes",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Crawford Market",
+                    "description": "Popular market for fresh produce and spices.",
+                    "mustVisit": "Yes",
+                    "cost": 150
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Pav Bhaji",
+                    "cuisine": "Indian",
+                    "description": "A spicy vegetable mash served with buttered bread.",
+                    "mustTry": "Best enjoyed at street food stalls in Mumbai.",
+                    "cost": 50
+                }
+            ]
+        },
+        {
+            "day": 3,
+            "date": "Day 3",
+            "attractions": [
+                {
+                    "name": "Haji Ali Dargah",
+                    "description": "A beautiful mosque situated on an islet in the Arabian Sea.",
+                    "recommendedTime": "1 hour",
+                    "cost": 0
+                },
+                {
+                    "name": "Juhu Beach",
+                    "description": "A famous beach known for its street food and sunset views.",
+                    "recommendedTime": "1-2 hours",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Linking Road",
+                    "description": "Famous for its street shopping and trendy boutiques.",
+                    "mustVisit": "Yes",
+                    "cost": 200
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Vada Pav",
+                    "cuisine": "Indian",
+                    "description": "A spicy potato fritter sandwiched in a bread bun.",
+                    "mustTry": "A staple snack in Mumbai.",
+                    "cost": 20
+                }
+            ]
+        },
+        {
+            "day": 4,
+            "date": "Day 4",
+            "attractions": [
+                {
+                    "name": "Siddhivinayak Temple",
+                    "description": "A revered Hindu temple dedicated to Lord Ganesh.",
+                    "recommendedTime": "1-2 hours",
+                    "cost": 0
+                },
+                {
+                    "name": "Chowpatty Beach",
+                    "description": "Famous for its street food and relaxed atmosphere.",
+                    "recommendedTime": "1 hour",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Dadar Flower Market",
+                    "description": "A vibrant market filled with colorful flowers.",
+                    "mustVisit": "Yes",
+                    "cost": 100
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Pani Puri",
+                    "cuisine": "Indian",
+                    "description": "A popular snack of crispy puris filled with spicy water.",
+                    "mustTry": "Try at Juhu Beach.",
+                    "cost": 40
+                }
+            ]
+        },
+        {
+            "day": 5,
+            "date": "Day 5",
+            "attractions": [
+                {
+                    "name": "Bandra-Worli Sea Link",
+                    "description": "A stunning cable-stayed bridge connecting Bandra and Worli.",
+                    "recommendedTime": "30 minutes",
+                    "cost": 0
+                },
+                {
+                    "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+                    "description": "A prominent museum showcasing art and history.",
+                    "recommendedTime": "2-3 hours",
+                    "cost": 200
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Bandra Linking Road",
+                    "description": "Known for its fashion boutiques and street stalls.",
+                    "mustVisit": "Yes",
+                    "cost": 200
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Frankie",
+                    "cuisine": "Indian",
+                    "description": "A popular wrap filled with various fillings.",
+                    "mustTry": "Must try at Mohammed Ali Road.",
+                    "cost": 70
+                }
+            ]
+        },
+        {
+            "day": 6,
+            "date": "Day 6",
+            "attractions": [
+                {
+                    "name": "Nehru Planetarium",
+                    "description": "An educational center for astronomy enthusiasts.",
+                    "recommendedTime": "1-2 hours",
+                    "cost": 100
+                },
+                {
+                    "name": "Bhau Daji Lad Museum",
+                    "description": "A museum showcasing Mumbai's cultural heritage.",
+                    "recommendedTime": "1-2 hours",
+                    "cost": 150
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Zaveri Bazaar",
+                    "description": "Mumbai's famous jewelry market.",
+                    "mustVisit": "Yes",
+                    "cost": 200
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Dhokla",
+                    "cuisine": "Indian",
+                    "description": "A savory steamed cake made from fermented batter.",
+                    "mustTry": "Best at local eateries.",
+                    "cost": 30
+                }
+            ]
+        },
+        {
+            "day": 7,
+            "date": "Day 7",
+            "attractions": [
+                {
+                    "name": "Essel World",
+                    "description": "A popular amusement park in Mumbai.",
+                    "recommendedTime": "4-5 hours",
+                    "cost": 600
+                },
+                {
+                    "name": "Sanjay Gandhi National Park",
+                    "description": "A large protected area with beautiful landscapes.",
+                    "recommendedTime": "2-3 hours",
+                    "cost": 100
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Kandivali Market",
+                    "description": "Local market known for fresh produce.",
+                    "mustVisit": "Yes",
+                    "cost": 150
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Pav Bhaji",
+                    "cuisine": "Indian",
+                    "description": "A spicy vegetable mash served with buttered bread.",
+                    "mustTry": "Best enjoyed at street food stalls in Mumbai.",
+                    "cost": 50
+                }
+            ]
+        }
+    ]
+}

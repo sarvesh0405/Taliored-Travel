@@ -1,0 +1,133 @@
+/* Overall container styles */
+.itinerary-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #181818; /* Dark background */
+    color: #ffffff; /* Light text color */
+    min-height: 100vh; /* Ensure it fills the viewport */
+}
+
+/* Form container styles */
+.itinerary-form-container {
+    background-color: #222; /* Darker container */
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5); /* Increased shadow for depth */
+    padding: 20px;
+    width: 400px;
+    margin-bottom: 20px;
+}
+
+/* Headings */
+h2 {
+    color: #4CAF50; /* Accent color for headings */
+    margin-bottom: 15px; /* Spacing below heading */
+}
+
+/* Form group styles */
+.form-group {
+    margin-bottom: 15px;
+}
+
+/* Label styles */
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+/* Input and select styles */
+input, select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #555; /* Darker border */
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: #333; /* Dark background for inputs */
+    color: #ffffff; /* Light text color for inputs */
+    transition: border 0.3s; /* Smooth transition for border */
+}
+
+input:focus, select:focus {
+    border-color: #4CAF50; /* Change border color on focus */
+}
+
+/* Submit button styles */
+.submit-button {
+    background-color: #1E90FF; /* Bright blue color */
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s; /* Smooth transition */
+    font-weight: bold; /* Make button text bold */
+    font-size: 16px; /* Increase button font size */
+}
+
+.submit-button:hover {
+    background-color: #1C86EE; /* Slightly darker blue on hover */
+    transform: scale(1.05); /* Slightly enlarge on hover */
+}
+
+.submit-button:disabled {
+    background-color: #A9A9A9; /* Gray color when disabled */
+}
+
+/* Itinerary output container styles */
+.itinerary-output-container {
+    width: 800px; /* Increased width for landscape */
+    background-color: #222; /* Dark background for output */
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5); /* Increased shadow for depth */
+    padding: 20px;
+    overflow-x: auto; /* Allow horizontal scrolling if needed */
+}
+
+/* Day container styles */
+.day-container {
+    display: flex; /* Use flexbox to arrange items */
+    flex-direction: column; /* Vertical arrangement of day info */
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #444; /* Darker border */
+    border-radius: 8px; /* Rounded corners */
+    background-color: #333; /* Dark background for better visibility */
+}
+
+/* Day info styles */
+.day-info {
+    display: flex; /* Flexbox for horizontal alignment */
+    justify-content: space-between; /* Space between attractions and markets */
+    flex-wrap: wrap; /* Wrap items if they exceed width */
+}
+
+/* Section styles */
+.attractions, .localMarkets, .foodOptions {
+    flex: 1; /* Each section takes equal space */
+    margin-right: 20px; /* Space between sections */
+}
+
+/* Itinerary item styles */
+.itinerary-item {
+    margin: 5px 0; /* Slight spacing between items */
+}
+
+/* Headings for sections */
+h5 {
+    color: #4CAF50; /* Accent color for subheadings */
+    margin-top: 10px; /* Spacing above section headings */
+}
+
+/* Optional styling for error messages */
+.error-message {
+    color: #ff3d3d; /* Red color for errors */
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+    .itinerary-form-container, .itinerary-output-container {
+        width: 90%; /* Full width on smaller screens */
+    }
+}

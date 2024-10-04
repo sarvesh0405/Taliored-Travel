@@ -1,0 +1,249 @@
+{
+    "itineraries": [
+        {
+            "day": 1,
+            "date": "Day 1",
+            "attractions": [
+                {
+                    "name": "Dashashwamedh Ghat",
+                    "description": "The main ghat famous for Ganga Aarti.",
+                    "recommendedTime": "2 hours",
+                    "cost": 0
+                },
+                {
+                    "name": "Kashi Vishwanath Temple",
+                    "description": "One of the most sacred temples dedicated to Lord Shiva.",
+                    "recommendedTime": "1 hour",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Manikarnika Ghat Market",
+                    "description": "Known for local handicrafts and souvenirs.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Chaat",
+                    "cuisine": "Indian",
+                    "description": "A popular street food snack.",
+                    "mustTry": "Best at local stalls.",
+                    "cost": 30
+                }
+            ]
+        },
+        {
+            "day": 2,
+            "date": "Day 2",
+            "attractions": [
+                {
+                    "name": "Sarnath",
+                    "description": "A significant Buddhist site where Buddha gave his first sermon.",
+                    "recommendedTime": "2-3 hours",
+                    "cost": 0
+                },
+                {
+                    "name": "Bharat Mata Temple",
+                    "description": "A unique temple dedicated to Mother India.",
+                    "recommendedTime": "1 hour",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Godowlia Market",
+                    "description": "Famous for Varanasi silk sarees and local crafts.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Lassi",
+                    "cuisine": "Indian",
+                    "description": "A refreshing yogurt drink.",
+                    "mustTry": "Best at Lassi shops.",
+                    "cost": 50
+                }
+            ]
+        },
+        {
+            "day": 3,
+            "date": "Day 3",
+            "attractions": [
+                {
+                    "name": "Assi Ghat",
+                    "description": "A popular ghat known for its vibrant atmosphere.",
+                    "recommendedTime": "1-2 hours",
+                    "cost": 0
+                },
+                {
+                    "name": "Tulsi Manas Temple",
+                    "description": "A beautiful temple dedicated to Lord Rama.",
+                    "recommendedTime": "1 hour",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Kachori Gali",
+                    "description": "Known for local snacks and sweets.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Banarasi Paan",
+                    "cuisine": "Indian",
+                    "description": "A local delicacy made of betel leaves.",
+                    "mustTry": "Famous in Varanasi.",
+                    "cost": 20
+                }
+            ]
+        },
+        {
+            "day": 4,
+            "date": "Day 4",
+            "attractions": [
+                {
+                    "name": "Ramnagar Fort",
+                    "description": "A historical fort located on the banks of the Ganges.",
+                    "recommendedTime": "2 hours",
+                    "cost": 50
+                },
+                {
+                    "name": "Ganga River Cruise",
+                    "description": "Experience the beauty of the Ganges from the water.",
+                    "recommendedTime": "1-2 hours",
+                    "cost": 100
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Rathyatra Market",
+                    "description": "Known for local crafts and religious items.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Kachori Sabzi",
+                    "cuisine": "Indian",
+                    "description": "Spicy lentil dumplings served with curry.",
+                    "mustTry": "Best at street stalls.",
+                    "cost": 50
+                }
+            ]
+        },
+        {
+            "day": 5,
+            "date": "Day 5",
+            "attractions": [
+                {
+                    "name": "Gyanvapi Mosque",
+                    "description": "An ancient mosque with beautiful architecture.",
+                    "recommendedTime": "1 hour",
+                    "cost": 0
+                },
+                {
+                    "name": "Maha Shivratri Festival",
+                    "description": "A significant festival celebrated in Varanasi.",
+                    "recommendedTime": "Variable",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Silk Weaving Market",
+                    "description": "Known for handwoven silk products.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Chura Dahi",
+                    "cuisine": "Indian",
+                    "description": "Flattened rice mixed with yogurt.",
+                    "mustTry": "A local favorite.",
+                    "cost": 30
+                }
+            ]
+        },
+        {
+            "day": 6,
+            "date": "Day 6",
+            "attractions": [
+                {
+                    "name": "Manikarnika Ghat",
+                    "description": "A ghat known for cremation rituals.",
+                    "recommendedTime": "1-2 hours",
+                    "cost": 0
+                },
+                {
+                    "name": "Sankat Mochan Hanuman Temple",
+                    "description": "A popular temple dedicated to Lord Hanuman.",
+                    "recommendedTime": "1 hour",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Chowk Market",
+                    "description": "Offers a variety of local food and crafts.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Puri Sabzi",
+                    "cuisine": "Indian",
+                    "description": "Deep-fried bread served with curry.",
+                    "mustTry": "Best at local stalls.",
+                    "cost": 40
+                }
+            ]
+        },
+        {
+            "day": 7,
+            "date": "Day 7",
+            "attractions": [
+                {
+                    "name": "Varanasi Ghats",
+                    "description": "A series of ghats along the Ganges, offering scenic views.",
+                    "recommendedTime": "2-3 hours",
+                    "cost": 0
+                },
+                {
+                    "name": "Assi Ghat Aarti",
+                    "description": "Evening aarti ceremony at Assi Ghat.",
+                    "recommendedTime": "1 hour",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Assi Market",
+                    "description": "Known for souvenirs and local products.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Kheer",
+                    "cuisine": "Indian",
+                    "description": "A sweet rice pudding.",
+                    "mustTry": "A local dessert.",
+                    "cost": 40
+                }
+            ]
+        }
+    ]
+}

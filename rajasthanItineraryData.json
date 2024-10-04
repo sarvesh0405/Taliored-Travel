@@ -1,0 +1,249 @@
+{
+    "itineraries": [
+        {
+            "day": 1,
+            "date": "Day 1",
+            "attractions": [
+                {
+                    "name": "Hawa Mahal",
+                    "description": "A beautiful palace known as the 'Palace of Winds'.",
+                    "recommendedTime": "1-2 hours",
+                    "cost": 50
+                },
+                {
+                    "name": "City Palace",
+                    "description": "A royal residence with stunning architecture.",
+                    "recommendedTime": "2-3 hours",
+                    "cost": 100
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Johari Bazaar",
+                    "description": "Famous for jewelry and traditional handicrafts.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Dal Baati Churma",
+                    "cuisine": "Rajasthani",
+                    "description": "A traditional dish made of lentils, bread, and sweet.",
+                    "mustTry": "Best at local restaurants.",
+                    "cost": 200
+                }
+            ]
+        },
+        {
+            "day": 2,
+            "date": "Day 2",
+            "attractions": [
+                {
+                    "name": "Amber Fort",
+                    "description": "A majestic fort located on a hilltop.",
+                    "recommendedTime": "3-4 hours",
+                    "cost": 100
+                },
+                {
+                    "name": "Jaipur Observatory",
+                    "description": "An astronomical observatory with giant instruments.",
+                    "recommendedTime": "2 hours",
+                    "cost": 50
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Bapu Bazaar",
+                    "description": "Known for textiles and handicrafts.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Gatte ki Sabzi",
+                    "cuisine": "Rajasthani",
+                    "description": "A curry made with gram flour dumplings.",
+                    "mustTry": "Popular among locals.",
+                    "cost": 150
+                }
+            ]
+        },
+        {
+            "day": 3,
+            "date": "Day 3",
+            "attractions": [
+                {
+                    "name": "Jaisalmer Fort",
+                    "description": "A magnificent fort made of yellow sandstone.",
+                    "recommendedTime": "2-3 hours",
+                    "cost": 0
+                },
+                {
+                    "name": "Patwon Ki Haveli",
+                    "description": "A historic haveli known for its intricate architecture.",
+                    "recommendedTime": "1-2 hours",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Sadar Bazaar",
+                    "description": "Famous for local crafts and souvenirs.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Ker Sangri",
+                    "cuisine": "Rajasthani",
+                    "description": "A traditional dish made with desert beans and berries.",
+                    "mustTry": "Best at local dhabas.",
+                    "cost": 100
+                }
+            ]
+        },
+        {
+            "day": 4,
+            "date": "Day 4",
+            "attractions": [
+                {
+                    "name": "Lake Pichola",
+                    "description": "A beautiful lake surrounded by palaces.",
+                    "recommendedTime": "2-3 hours",
+                    "cost": 0
+                },
+                {
+                    "name": "City Palace of Udaipur",
+                    "description": "A stunning palace with intricate architecture.",
+                    "recommendedTime": "2-3 hours",
+                    "cost": 100
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Bada Bazaar",
+                    "description": "Known for traditional handicrafts and souvenirs.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Dal Baati",
+                    "cuisine": "Rajasthani",
+                    "description": "Traditional baked wheat balls served with lentil curry.",
+                    "mustTry": "Best at local restaurants.",
+                    "cost": 150
+                }
+            ]
+        },
+        {
+            "day": 5,
+            "date": "Day 5",
+            "attractions": [
+                {
+                    "name": "Jodhpur Fort",
+                    "description": "A massive fort with stunning views of the city.",
+                    "recommendedTime": "2-3 hours",
+                    "cost": 0
+                },
+                {
+                    "name": "Umaid Bhawan Palace",
+                    "description": "A grand palace turned hotel and museum.",
+                    "recommendedTime": "2 hours",
+                    "cost": 50
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Sardar Market",
+                    "description": "Famous for spices and textiles.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Gulab Jamun",
+                    "cuisine": "Indian",
+                    "description": "A popular sweet made of milk solids.",
+                    "mustTry": "Best at local sweet shops.",
+                    "cost": 40
+                }
+            ]
+        },
+        {
+            "day": 6,
+            "date": "Day 6",
+            "attractions": [
+                {
+                    "name": "Chittorgarh Fort",
+                    "description": "A UNESCO World Heritage site with rich history.",
+                    "recommendedTime": "3-4 hours",
+                    "cost": 50
+                },
+                {
+                    "name": "Rani Padmini Palace",
+                    "description": "A historic palace with stunning architecture.",
+                    "recommendedTime": "1-2 hours",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Chittor Market",
+                    "description": "Known for local crafts and souvenirs.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Laal Maas",
+                    "cuisine": "Rajasthani",
+                    "description": "A spicy meat curry made with red chillies.",
+                    "mustTry": "Popular among locals.",
+                    "cost": 200
+                }
+            ]
+        },
+        {
+            "day": 7,
+            "date": "Day 7",
+            "attractions": [
+                {
+                    "name": "Camel Safari",
+                    "description": "Experience the desert on a camel ride.",
+                    "recommendedTime": "2-3 hours",
+                    "cost": 1000
+                },
+                {
+                    "name": "Thar Desert",
+                    "description": "Explore the vast desert landscape.",
+                    "recommendedTime": "Variable",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Desert Market",
+                    "description": "Offers local handicrafts and souvenirs.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Bajra Khichdi",
+                    "cuisine": "Rajasthani",
+                    "description": "A traditional dish made with pearl millet.",
+                    "mustTry": "Best at local dhabas.",
+                    "cost": 100
+                }
+            ]
+        }
+    ]
+}

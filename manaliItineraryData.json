@@ -1,0 +1,249 @@
+{
+    "itineraries": [
+        {
+            "day": 1,
+            "date": "Day 1",
+            "attractions": [
+                {
+                    "name": "Hadimba Temple",
+                    "description": "A famous temple dedicated to Goddess Hadimba amidst cedar forests.",
+                    "recommendedTime": "1 hour",
+                    "cost": 0
+                },
+                {
+                    "name": "Manu Temple",
+                    "description": "An ancient temple dedicated to Sage Manu, situated in Old Manali.",
+                    "recommendedTime": "1 hour",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Old Manali Market",
+                    "description": "A charming market with cafes, shops, and local handicrafts.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Sidu",
+                    "cuisine": "Himachali",
+                    "description": "A local bread made with wheat flour, usually stuffed with various fillings.",
+                    "mustTry": "Best at local eateries.",
+                    "cost": 50
+                }
+            ]
+        },
+        {
+            "day": 2,
+            "date": "Day 2",
+            "attractions": [
+                {
+                    "name": "Solang Valley",
+                    "description": "A popular spot for adventure activities and beautiful views.",
+                    "recommendedTime": "3-4 hours",
+                    "cost": 500
+                },
+                {
+                    "name": "Rohtang Pass",
+                    "description": "A high mountain pass offering stunning views and snow activities.",
+                    "recommendedTime": "4-5 hours",
+                    "cost": 500
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Mall Road",
+                    "description": "A popular street for shopping, dining, and local souvenirs.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Chole Bhature",
+                    "cuisine": "North Indian",
+                    "description": "Spicy chickpeas served with fried bread.",
+                    "mustTry": "Best at local dhabas.",
+                    "cost": 100
+                }
+            ]
+        },
+        {
+            "day": 3,
+            "date": "Day 3",
+            "attractions": [
+                {
+                    "name": "Vashisht Village",
+                    "description": "Famous for its hot springs and scenic views.",
+                    "recommendedTime": "2 hours",
+                    "cost": 0
+                },
+                {
+                    "name": "Jogini Waterfall",
+                    "description": "A beautiful waterfall located near Vashisht village.",
+                    "recommendedTime": "1-2 hours",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Tibetan Market",
+                    "description": "Known for Tibetan handicrafts and local products.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Thukpa",
+                    "cuisine": "Tibetan",
+                    "description": "A noodle soup with vegetables and meat.",
+                    "mustTry": "Popular among tourists.",
+                    "cost": 100
+                }
+            ]
+        },
+        {
+            "day": 4,
+            "date": "Day 4",
+            "attractions": [
+                {
+                    "name": "Kothi Village",
+                    "description": "A small village offering panoramic views of the mountains.",
+                    "recommendedTime": "1-2 hours",
+                    "cost": 0
+                },
+                {
+                    "name": "Bhrigu Lake",
+                    "description": "A beautiful lake surrounded by snow-capped mountains.",
+                    "recommendedTime": "4-5 hours",
+                    "cost": 500
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Kullu Market",
+                    "description": "Known for woollen clothes and local handicrafts.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Aloo Tikki",
+                    "cuisine": "North Indian",
+                    "description": "Spicy potato patties served with chutney.",
+                    "mustTry": "Available at local stalls.",
+                    "cost": 30
+                }
+            ]
+        },
+        {
+            "day": 5,
+            "date": "Day 5",
+            "attractions": [
+                {
+                    "name": "Great Himalayan National Park",
+                    "description": "A UNESCO World Heritage site known for its biodiversity.",
+                    "recommendedTime": "3-4 hours",
+                    "cost": 50
+                },
+                {
+                    "name": "Kullu Valley",
+                    "description": "A beautiful valley known for its scenic views and apple orchards.",
+                    "recommendedTime": "2-3 hours",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Kullu Shawl Market",
+                    "description": "Famous for its traditional shawls and woollen products.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Kullu Trout Fish",
+                    "cuisine": "Himachali",
+                    "description": "Locally sourced trout fish cooked with spices.",
+                    "mustTry": "Available at many local eateries.",
+                    "cost": 300
+                }
+            ]
+        },
+        {
+            "day": 6,
+            "date": "Day 6",
+            "attractions": [
+                {
+                    "name": "Manali Sanctuary",
+                    "description": "A protected area known for its diverse flora and fauna.",
+                    "recommendedTime": "2-3 hours",
+                    "cost": 50
+                },
+                {
+                    "name": "Beas River",
+                    "description": "A picturesque river ideal for trekking and riverside activities.",
+                    "recommendedTime": "1-2 hours",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Local Handicrafts Market",
+                    "description": "Offers a range of local handicrafts and souvenirs.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Paneer Butter Masala",
+                    "cuisine": "North Indian",
+                    "description": "Cottage cheese cooked in a rich tomato gravy.",
+                    "mustTry": "Popular at local restaurants.",
+                    "cost": 250
+                }
+            ]
+        },
+        {
+            "day": 7,
+            "date": "Day 7",
+            "attractions": [
+                {
+                    "name": "Snow Point",
+                    "description": "A popular tourist spot for snow activities.",
+                    "recommendedTime": "3-4 hours",
+                    "cost": 500
+                },
+                {
+                    "name": "Club House",
+                    "description": "A recreational area offering various activities.",
+                    "recommendedTime": "2 hours",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Manali Mall",
+                    "description": "A vibrant market with various shops and cafes.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Veg Momos",
+                    "cuisine": "Tibetan",
+                    "description": "Steamed dumplings filled with vegetables.",
+                    "mustTry": "Available at many eateries.",
+                    "cost": 50
+                }
+            ]
+        }
+    ]
+}

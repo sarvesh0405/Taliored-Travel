@@ -1,0 +1,249 @@
+{
+    "itineraries": [
+        {
+            "day": 1,
+            "date": "Day 1",
+            "attractions": [
+                {
+                    "name": "Dal Lake",
+                    "description": "A stunning lake known for its houseboats and shikaras.",
+                    "recommendedTime": "2-3 hours",
+                    "cost": 100
+                },
+                {
+                    "name": "Shankaracharya Temple",
+                    "description": "An ancient temple offering panoramic views of Srinagar.",
+                    "recommendedTime": "1-2 hours",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Lal Chowk",
+                    "description": "A bustling market known for Kashmiri handicrafts.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Rogan Josh",
+                    "cuisine": "Kashmiri",
+                    "description": "A traditional lamb dish cooked with aromatic spices.",
+                    "mustTry": "Best at local restaurants.",
+                    "cost": 300
+                }
+            ]
+        },
+        {
+            "day": 2,
+            "date": "Day 2",
+            "attractions": [
+                {
+                    "name": "Mughal Gardens",
+                    "description": "Beautiful gardens showcasing Mughal architecture.",
+                    "recommendedTime": "2-3 hours",
+                    "cost": 20
+                },
+                {
+                    "name": "Hazratbal Shrine",
+                    "description": "A revered Muslim shrine located on the banks of Dal Lake.",
+                    "recommendedTime": "1 hour",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Kashmiri Shawl Market",
+                    "description": "Famous for its exquisite shawls and woollen products.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Yakhni",
+                    "cuisine": "Kashmiri",
+                    "description": "A yogurt-based meat curry, mild and fragrant.",
+                    "mustTry": "Available at local eateries.",
+                    "cost": 250
+                }
+            ]
+        },
+        {
+            "day": 3,
+            "date": "Day 3",
+            "attractions": [
+                {
+                    "name": "Pahalgam",
+                    "description": "A picturesque town known for its stunning landscapes.",
+                    "recommendedTime": "2-3 hours",
+                    "cost": 0
+                },
+                {
+                    "name": "Betaab Valley",
+                    "description": "A scenic valley famous for its lush greenery and river.",
+                    "recommendedTime": "1-2 hours",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Pahalgam Market",
+                    "description": "Offers local handicrafts and souvenirs.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Kashmiri Dum Aloo",
+                    "cuisine": "Kashmiri",
+                    "description": "Spicy baby potatoes cooked in a rich gravy.",
+                    "mustTry": "Best at local dhabas.",
+                    "cost": 150
+                }
+            ]
+        },
+        {
+            "day": 4,
+            "date": "Day 4",
+            "attractions": [
+                {
+                    "name": "Gulmarg",
+                    "description": "A hill station known for skiing and snowboarding.",
+                    "recommendedTime": "4-5 hours",
+                    "cost": 500
+                },
+                {
+                    "name": "Apharwat Peak",
+                    "description": "Offers breathtaking views of the surrounding mountains.",
+                    "recommendedTime": "2-3 hours",
+                    "cost": 200
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Gulmarg Market",
+                    "description": "Known for winter sports equipment and local crafts.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Gushtaba",
+                    "cuisine": "Kashmiri",
+                    "description": "A traditional meatball dish cooked in yogurt.",
+                    "mustTry": "Best enjoyed at local restaurants.",
+                    "cost": 350
+                }
+            ]
+        },
+        {
+            "day": 5,
+            "date": "Day 5",
+            "attractions": [
+                {
+                    "name": "Sonamarg",
+                    "description": "A scenic meadow surrounded by mountains.",
+                    "recommendedTime": "3-4 hours",
+                    "cost": 0
+                },
+                {
+                    "name": "Naranag Temple",
+                    "description": "An ancient temple with beautiful architecture.",
+                    "recommendedTime": "1-2 hours",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Sonamarg Market",
+                    "description": "Offers local handicrafts and souvenirs.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Kashmiri Pulao",
+                    "cuisine": "Kashmiri",
+                    "description": "A fragrant rice dish with dry fruits.",
+                    "mustTry": "Best at local eateries.",
+                    "cost": 200
+                }
+            ]
+        },
+        {
+            "day": 6,
+            "date": "Day 6",
+            "attractions": [
+                {
+                    "name": "Pulwama",
+                    "description": "Known for its beautiful gardens and saffron fields.",
+                    "recommendedTime": "2-3 hours",
+                    "cost": 0
+                },
+                {
+                    "name": "Chashme Shahi Gardens",
+                    "description": "Famous for its terraced lawns and fountains.",
+                    "recommendedTime": "1-2 hours",
+                    "cost": 20
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Pulwama Market",
+                    "description": "Known for saffron and local handicrafts.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Kashmiri Naan",
+                    "cuisine": "Kashmiri",
+                    "description": "Traditional bread baked in a clay oven.",
+                    "mustTry": "Best at local bakeries.",
+                    "cost": 40
+                }
+            ]
+        },
+        {
+            "day": 7,
+            "date": "Day 7",
+            "attractions": [
+                {
+                    "name": "Wular Lake",
+                    "description": "One of the largest freshwater lakes in Asia.",
+                    "recommendedTime": "2-3 hours",
+                    "cost": 0
+                },
+                {
+                    "name": "Shah-e-Hamadan Mosque",
+                    "description": "A beautiful mosque known for its wooden architecture.",
+                    "recommendedTime": "1 hour",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Srinagar Market",
+                    "description": "Offers a variety of local handicrafts and products.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Kashmiri Chai",
+                    "cuisine": "Kashmiri",
+                    "description": "A traditional tea made with green tea leaves.",
+                    "mustTry": "Best enjoyed with local snacks.",
+                    "cost": 50
+                }
+            ]
+        }
+    ]
+}

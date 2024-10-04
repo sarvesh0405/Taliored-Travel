@@ -1,0 +1,249 @@
+{
+    "itineraries": [
+        {
+            "day": 1,
+            "date": "Day 1",
+            "attractions": [
+                {
+                    "name": "India Gate",
+                    "description": "A war memorial built in honor of soldiers who died in World War I.",
+                    "recommendedTime": "1 hour",
+                    "cost": 0
+                },
+                {
+                    "name": "Humayun's Tomb",
+                    "description": "A UNESCO World Heritage Site and a beautiful garden tomb.",
+                    "recommendedTime": "1-2 hours",
+                    "cost": 600
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Connaught Place",
+                    "description": "A shopping and commercial hub with various brands and eateries.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Chole Bhature",
+                    "cuisine": "North Indian",
+                    "description": "A popular dish made of spicy chickpeas and fried bread.",
+                    "mustTry": "Best at local eateries in Chandni Chowk.",
+                    "cost": 100
+                }
+            ]
+        },
+        {
+            "day": 2,
+            "date": "Day 2",
+            "attractions": [
+                {
+                    "name": "Qutub Minar",
+                    "description": "The tallest brick minaret in the world and a UNESCO World Heritage Site.",
+                    "recommendedTime": "1 hour",
+                    "cost": 600
+                },
+                {
+                    "name": "Lotus Temple",
+                    "description": "A Bahá'í House of Worship known for its lotus-like architecture.",
+                    "recommendedTime": "30 minutes",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Dilli Haat",
+                    "description": "An open-air market offering handicrafts and cuisines from different states.",
+                    "mustVisit": "Yes",
+                    "cost": 100
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Biryani",
+                    "cuisine": "Indian",
+                    "description": "A fragrant rice dish cooked with spices and meat or vegetables.",
+                    "mustTry": "Try at Karim's in Jama Masjid.",
+                    "cost": 200
+                }
+            ]
+        },
+        {
+            "day": 3,
+            "date": "Day 3",
+            "attractions": [
+                {
+                    "name": "Red Fort",
+                    "description": "A UNESCO World Heritage Site and a symbol of India's history.",
+                    "recommendedTime": "2 hours",
+                    "cost": 600
+                },
+                {
+                    "name": "Jama Masjid",
+                    "description": "One of the largest mosques in India with beautiful architecture.",
+                    "recommendedTime": "30 minutes",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Chandni Chowk",
+                    "description": "A bustling market known for its street food and shopping.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Paratha",
+                    "cuisine": "Indian",
+                    "description": "Flaky bread stuffed with various fillings.",
+                    "mustTry": "Famous at Paranthe Wali Gali.",
+                    "cost": 80
+                }
+            ]
+        },
+        {
+            "day": 4,
+            "date": "Day 4",
+            "attractions": [
+                {
+                    "name": "Akshardham Temple",
+                    "description": "A spiritual-cultural campus with stunning architecture.",
+                    "recommendedTime": "2-3 hours",
+                    "cost": 0
+                },
+                {
+                    "name": "Lodhi Gardens",
+                    "description": "A beautiful park with tombs of the Lodhi dynasty.",
+                    "recommendedTime": "1-2 hours",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Khan Market",
+                    "description": "A popular market for clothing, accessories, and eateries.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Samosa",
+                    "cuisine": "Indian",
+                    "description": "A deep-fried pastry filled with spiced potatoes.",
+                    "mustTry": "Available at various street vendors.",
+                    "cost": 20
+                }
+            ]
+        },
+        {
+            "day": 5,
+            "date": "Day 5",
+            "attractions": [
+                {
+                    "name": "National Museum",
+                    "description": "A museum showcasing India's rich heritage.",
+                    "recommendedTime": "2 hours",
+                    "cost": 20
+                },
+                {
+                    "name": "Raj Ghat",
+                    "description": "The memorial of Mahatma Gandhi.",
+                    "recommendedTime": "30 minutes",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Palika Bazaar",
+                    "description": "An underground market offering a variety of goods.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Kulfi",
+                    "cuisine": "Indian",
+                    "description": "A traditional Indian ice cream.",
+                    "mustTry": "Available at many dessert shops.",
+                    "cost": 50
+                }
+            ]
+        },
+        {
+            "day": 6,
+            "date": "Day 6",
+            "attractions": [
+                {
+                    "name": "Safdarjung Tomb",
+                    "description": "A beautiful tomb built in the Mughal architectural style.",
+                    "recommendedTime": "1 hour",
+                    "cost": 0
+                },
+                {
+                    "name": "Chhatarpur Temple",
+                    "description": "A large and beautiful temple complex.",
+                    "recommendedTime": "1-2 hours",
+                    "cost": 0
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Sarai Rohilla Market",
+                    "description": "Known for its traditional Indian items.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Tandoori Chicken",
+                    "cuisine": "Indian",
+                    "description": "Marinated chicken cooked in a clay oven.",
+                    "mustTry": "Best at local restaurants.",
+                    "cost": 300
+                }
+            ]
+        },
+        {
+            "day": 7,
+            "date": "Day 7",
+            "attractions": [
+                {
+                    "name": "Gurudwara Bangla Sahib",
+                    "description": "A prominent Sikh temple in Delhi.",
+                    "recommendedTime": "1 hour",
+                    "cost": 0
+                },
+                {
+                    "name": "National Gallery of Modern Art",
+                    "description": "A museum showcasing modern Indian art.",
+                    "recommendedTime": "1-2 hours",
+                    "cost": 20
+                }
+            ],
+            "localMarkets": [
+                {
+                    "name": "Lajpat Nagar Market",
+                    "description": "A vibrant market known for its ethnic wear.",
+                    "mustVisit": "Yes",
+                    "cost": 0
+                }
+            ],
+            "foodOptions": [
+                {
+                    "name": "Paneer Tikka",
+                    "cuisine": "Indian",
+                    "description": "Grilled cottage cheese marinated with spices.",
+                    "mustTry": "Popular at many eateries.",
+                    "cost": 200
+                }
+            ]
+        }
+    ]
+}
